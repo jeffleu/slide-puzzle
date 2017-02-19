@@ -1,5 +1,5 @@
 # Slide Puzzle in React
-#![](https://raw.githubusercontent.com/jeffleu/slide-puzzle/master/images/demo-large.gif)
+#![](https://raw.githubusercontent.com/jeffleu/slide-puzzle/master/images/demo.gif)
 
 ## Requirements
 * [Node.js](https://nodejs.org/) v6.x.x
